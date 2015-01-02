@@ -1,28 +1,29 @@
-== README
+Enterprise App
+==============
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Powerful Software
+-----------------
 
-Things you may want to cover:
+### Welcome to the repository
 
-* Ruby version
+Feel free to access [my portfolio](http://www.abreuit.com).
 
-* System dependencies
+> ## Etiam pulvinar sollicitudin gravida
+>
+> Nam nec justo magna. Sed sodales turpis quis enim semper posuere. Nullam tellus nisl, congue eu neque ac, pellente.
+>
+> Donec malesuada aligquam *gravida*.
 
-* Configuration
+Donec malesuada aliquam **graviada**.
 
-* Database creation
+### Crazy good software
+* Rapid development
++ Tested
+- 24/7 support
 
-* Database initialization
+### Reasons to choose us
+1. Price
+2. Precision
+3. Performance
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+This is what ruby code would like like `puts 'Hello World'`
