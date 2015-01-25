@@ -15,6 +15,7 @@ end
 # Added gems
 gem 'bootstrap-sass', '~> 2.3.1.0'
 gem 'devise'
+gem 'simple_calendar', '~> 1.1.0'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.3'
